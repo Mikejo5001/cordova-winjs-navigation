@@ -5,15 +5,15 @@ The WinJS Navigation Template sample app provides a template you can use to crea
 ### Requirements
 Visual Studio 2015 RC with optional cross-platform components for HTML/JavaScript installed.
 
-Note: In VS 2015 RC, project structure is updated for compatibility with 3rd party tools. To migrate older versions of an app based on this template, see Known Issues (http://go.microsoft.com/fwlink/?LinkID=398782).
+Note: In VS 2015 RC, project structure is updated for compatibility with 3rd party tools and CLIs. If you need to migrate an older version of an app based on this template to VS 2015 RC, see Known Issues (http://go.microsoft.com/fwlink/?LinkID=398782).
 
 ### Running The App
-After you finish downloading and installing our extension (https://go.microsoft.com/fwlink/?LinkId=397606), open up the project in Visual Studio.
+After you finish downloading and installing VS Tools for Apache Cordova (http://go.microsoft.com/fwlink/?LinkId=524433), open up the project in Visual Studio.
 
-### Updates from older versions of the sample
+### Updates
 - Project structure updated for VS 2015 RC
-- WinJS update, including Symbols.ttf font, which eliminated some platform code workarounds for BackButton.
-- Switched to light theme by default.
+- WinJS update, including addition of Symbols.ttf font, which eliminated some platform code workarounds for BackButton.
+- Switched to CSS light theme by default.
 
 ### Known Issues
 - The Android 4.3 browser has some known limitations, and so the sample may not work perfectly on such devices
