@@ -11,16 +11,21 @@ Note: In VS 2015 RC/RTM, project structure is updated for compatibility with 3rd
 After you finish downloading and installing VS Tools for Apache Cordova (http://go.microsoft.com/fwlink/?LinkId=524433), open up the project in Visual Studio.
 
 ### Updates
+December, 2015
+ - Updated to Cordova 5.3.3 with Cordova 5 whitelist security Updates
+ - Updated to WinJS 4.4
+ - Switched to CSS dark theme by default, but included light theme as commented out code for easy switching.
+
+July, 2015
 - Project structure updated for VS 2015 RC
 - WinJS update, including addition of Symbols.ttf font, which eliminated some platform code workarounds for BackButton.
-- Switched to CSS light theme by default.
 
 ### Known Issues
 - The Android 4.3 browser has some known limitations, and so the sample may not work perfectly on such devices
 
 
 ## Terms of Use
-By downloading and running this project, you agree to the license terms of the third party application software, Microsoft products, and components to be installed. 
+By downloading and running this project, you agree to the license terms of the third party application software, Microsoft products, and components to be installed.
 
 The third party software and products are provided to you by third parties. You are responsible for reading and accepting the relevant license terms for all software that will be installed. Microsoft grants you no rights to third party software.
 
@@ -54,5 +59,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-
